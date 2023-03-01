@@ -26,4 +26,5 @@ ou:
     
     npx vite --open
     
+    
 🙏🏽 Obrigado por ver este repositório!
