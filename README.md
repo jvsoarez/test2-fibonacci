@@ -4,25 +4,25 @@
 
 💻 para executar esta aplicação no seu computador:
 
-🐧 **Unix Systems:**
+🐧 **Sistemas Unix:**
 
-Clone this repository:
+Faça o clone deste repositório:
 
     git clone https://github.com/jvsoarez/test2-fibonacci.git
     
-Enter in the directory
+Entre no diretório
     
     cd test2-fibonacci
     
-To install the dependencies:
+Instale as dependências:
     
     npm install
 
-To open the project in the browser:
+Para abrir este projeto no navegador:
     
     npm run dev
 
-or:
+ou:
     
     npx vite --open
     
