@@ -1,0 +1,22 @@
+{
+  "name": "test1-fibonacci",
+  "version": "1.0.0",
+  "description": "fibonacci sequence",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jvsoarez",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.35.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
