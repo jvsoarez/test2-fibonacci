@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite --open",
+    "lint": "eslint ./src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jvsoarez",
